@@ -17,7 +17,7 @@ function App() {
 				<h3>Try to get outside</h3>
 				<div className='grid'>
 					<a
-						href={`googlechrome://docs.google.com/document/d/1lIaKyy6fWVXSyQHMQwQDhjk3U9A0P19y/edit`}
+						href={`googlechrome://www.docs.google.com/document/d/1lIaKyy6fWVXSyQHMQwQDhjk3U9A0P19y/edit`}
 						target='_system'
 					>
 						Link 4
